@@ -13,4 +13,4 @@ my first website build during 12 weeks kodilla bootcamp
 
 ####Preview
 
-![sass-js-coding-test screenshot](https://github.com/andrzejbajuk79/CountryNameSearch--ajax/blob/master/img/Screenshot%20(8).png?raw=true)
+![sass-js-coding-test screenshot](https://github.com/andrzejbajuk79/first-website-ever/blob/master/Screenshot%20(17).png?raw=true)
